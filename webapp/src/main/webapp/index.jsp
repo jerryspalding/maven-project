@@ -1,6 +1,6 @@
 <html>
 <title>Example Maven Project</title>
-<body bgcolor="lightgrey">
+<body bgcolor="lightgreen">
 <h1>Hello, World!</h1>
 <p>I have made an update to the project.
 <p>12/02/2019 @ 12:50
